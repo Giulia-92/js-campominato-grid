@@ -1,0 +1,51 @@
+debug{
+    border: 1px solid grey;
+}
+
+header{
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    font-size: 30px;
+    color: black;
+    font-family: 'Ubuntu', sans-serif;;
+}
+.left{
+  margin-left: 40px;
+  
+}
+.right{
+  margin-right: 40px;
+  margin-top:20px;
+  
+}
+#play{
+    background-color: midnightblue;
+    color: white;
+    height:30px;
+    width:60px;
+    border-radius: 10px;
+}
+#livelli{
+    height:30px;
+    border-radius: 10px;
+}
+.sfondo{
+    background-color: aqua;
+    height:600px;
+    width:100%;
+}
+p{
+    font-size:30px;
+    color: black;
+    font-family: 'Ubuntu', sans-serif;;
+    padding-top: 20%;
+    padding-left:30%;
+}
+.partefinale{
+    border: 1px solid grey;
+    height: 40px;
+}
+
