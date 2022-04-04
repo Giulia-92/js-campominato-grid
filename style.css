@@ -2,11 +2,11 @@ debug{
     border: 1px solid grey;
 }
 
+
 header{
     height:60px;
     display: flex;
     justify-content: space-between;
-    
 }
 h1{
     font-size: 30px;
@@ -18,16 +18,18 @@ h1{
   
 }
 .row{
+   
 justify-content: center;
 align-items: center;
 }
 
 .col-1{
+
     border: 1px solid rgb(250, 250, 250);
     background-color: black;
     display: flex;
-    height: 70px;
-    width: 70px;
+    height: 60px;
+    width: 60px;
 }
 .right{
   margin-right: 40px;
