@@ -8,7 +8,8 @@ header{
     display: flex;
     justify-content: space-between;
 }
-h1{
+.Titolo{
+    padding-top: 20px;
     font-size: 30px;
     color: black;
     font-family: 'Ubuntu', sans-serif;;
@@ -24,8 +25,8 @@ align-items: center;
 
 .col-1{
 
-    border: 1px solid rgb(250, 250, 250);
-    background-color: black;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: aqua;
     display: flex;
     height: 60px;
     width: 60px;
@@ -34,6 +35,11 @@ align-items: center;
   margin-right: 40px;
   margin-top:20px;
   
+}
+.colore{
+    height: 60px;
+    width: 60px;
+    background-color: rgb(60, 101, 177);
 }
 #play{
     background-color: midnightblue;
@@ -59,7 +65,7 @@ p{
     padding-left:30%;
 }
 .partefinale{
-   
+   margin-left:30px;
     height: 40px;
 }
 
